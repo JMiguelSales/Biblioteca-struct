@@ -19,4 +19,4 @@ Sintaxe: StcDeletar(**Tipo da struct** *Struct, **int** tamanho da struct, **int
 
 ---
 
-Eu sei que parece meio inútil eu essa biblioteca só com uma função, porém eu quis dividir para caso eu queira adicionar mais funções sobre struct a ela, lembrando que essa biblioteca é para a linguagem C/C++.
+Eu sei que parece meio inútil eu essa biblioteca só com uma função, porém eu quis dividir para caso eu queira adicionar mais funções sobre struct a ela, lembrando que essa biblioteca é para a linguagem C/C++..
